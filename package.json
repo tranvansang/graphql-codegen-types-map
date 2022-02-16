@@ -12,9 +12,12 @@
     "esprima": "^4.0.1",
     "graphql": "^16.3.0",
     "lazy-get-decorator": "^2.2.0",
-    "lodash": "^4.17.21",
     "lodash.merge": "^4.6.2",
     "object.fromentries": "^2.0.5",
-    "static-eval": "^2.1.0"
+    "static-eval": "^2.1.0",
+    "@graphql-codegen/plugin-helpers": "^1.13.1",
+    "@graphql-codegen/visitor-plugin-common": "^1.13.1",
+    "lodash.flatmap": "^4.5.0",
+    "lodash.uniq": "^4.5.0"
   }
 }
