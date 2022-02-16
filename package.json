@@ -1,0 +1,20 @@
+{
+  "name": "graphql-codegen-types-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tran Sang <me@transa.ng>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "change-case": "^4.1.2",
+    "esprima": "^4.0.1",
+    "graphql": "^16.3.0",
+    "lazy-get-decorator": "^2.2.0",
+    "lodash": "^4.17.21",
+    "lodash.merge": "^4.6.2",
+    "object.fromentries": "^2.0.5",
+    "static-eval": "^2.1.0"
+  }
+}
